@@ -17,7 +17,7 @@ Alle verwendeten Icons sind Teil der TScript IDE. Das relevante Icon ist durch d
 
   ![Screenshot](tscript_icons/tscript_icons_opencanvas.png)
 
-  hinzugefügt werden. Je nach Größe und Platzierung muss der Canvas maximiert werden, um das Voronoi-Diagramm vollständig darstellen zu können. Dazu lassen sich rechts oben im Canvas-Bereich, der nach Schritt 3. Teil des Arbeitsbereichs ist, verschiedene Positionierungen für den Canvas auswählen. Für die Maximierung muss
+  hinzugefügt werden. Je nach Größe und Platzierung muss der Canvas maximiert werden, um das Voronoi-Diagramm vollständig darstellen zu können. Dazu lassen sich rechts oben im Canvas-Bereich verschiedene Positionierungen für den Canvas auswählen. Für die Maximierung muss
 
   ![Screenshot](tscript_icons/tscript_icons_maximize.png)
 
