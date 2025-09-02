@@ -1,5 +1,6 @@
 # Voronoi-Diagramm-Generator
 Dieses Programm generiert Voronoi-Diagramme für zufällige Repräsentationspunkte und Farben unter Verwendung von Minkowski-Distanzen in TScript https://tglas.github.io/tscript/.
+Upload .tscript via ... icon.
 Um die Abbildungen zu generieren muss der Bereich 'Canvas' aus der Programmleiste oben geöffnet und für große Bilder maximiert sein.
 
 Dabei können Bilder in Form von Bitmaps oder zufällige Farben als Basis für die Farbe der einzelnen Voronoi-Zellen genutzt werden. 
