@@ -6,18 +6,18 @@ Die Repräsentationspunkte können allgemein als Gitter oder zufällig generiert
 Zunächst wird ein gröberes Gitter aus weniger Repräsentationspunkten generiert. Danach werden entweder zufällige Punkte im Bereich der Grapefruit oder genau außerhalb davon geplottet.
 
 # Ausführung
+Alle verwendeten Icons sind Teil der TScript IDE. Das relevante Icon ist durch den orangenen Pfeil markiert.
+
 1. Herunterladen des [Voronoi-Generators](voronoiGenerator.tscript).
-2. TScript unter https://tglas.github.io/tscript/ öffnen und die Datei unter
+2. Öffnen der TScript IDE unter https://tglas.github.io/tscript/ und Hochladen der Datei unter
 
-   ![Screenshot](tscript_icons/tscript_icons_upload.png)
+   ![Screenshot](tscript_icons/tscript_icons_upload.png).
 
-  hochladen. Das relevante Icon wird immer durch den orangenen Pfeil angezeigt.
-
-3. Um die Diagramme anzeigen zu lassen muss der Bereich 'Canvas' aus der Programmleiste geöffnet werden.
+3. Zum Anzeigen der Voronoi-Diagramme muss der Bereich 'Canvas' aus der Programmleiste geöffnet sein. Ist der Canvas noch kein Teil des Arbeitsbereichs kann er ihm über
 
   ![Screenshot](tscript_icons/tscript_icons_opencanvas.png)
 
-  Je nach Größe und Platzierung muss der Canvas maximiert werden, um das Voronoi-Diagramm vollständig anzuzeigen. Dazu lassen sich rechts oben im Canvas-Bereich, der nach Schritt 3. Teil des Arbeitsbereichs ist, verschiedene Positionierungen für den Canvas auswählen. Für die Maximierung muss
+  hinzugefügt werden. Je nach Größe und Platzierung muss der Canvas maximiert werden, um das Voronoi-Diagramm vollständig darstellen zu können. Dazu lassen sich rechts oben im Canvas-Bereich, der nach Schritt 3. Teil des Arbeitsbereichs ist, verschiedene Positionierungen für den Canvas auswählen. Für die Maximierung muss
 
   ![Screenshot](tscript_icons/tscript_icons_maximize.png)
 
